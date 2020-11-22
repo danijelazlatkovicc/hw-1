@@ -24,6 +24,19 @@ body h1 {
     
 }
 
+.column1 {
+    float: left;
+    width: 75%;
+    background-color: #EEEEEE;
+}
+
+.column2 {
+    float: left;
+    width: 25%;
+    background-color: #A2B964;
+}
+
+
 
 
 
