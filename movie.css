@@ -36,6 +36,50 @@ body h1 {
     background-color: #A2B964;
 }
 
+.top {
+    background-image: url('images/rbg.png');
+    font-size: 48pt;
+    color: red;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 90%;
+    margin-left: 5%;
+}
+
+.flex-container q {
+    margin-left: 5px;
+    font-style: italic;
+}
+
+.flex-container img {
+    margin-right: 5px;
+}
+
+.flex-container p {
+    font-size: 13pt;
+}
+
+#comment {
+    font-size: 13pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    border: #cccccc solid 2px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding: 5px;
+}
+
+
+
 
 
 
