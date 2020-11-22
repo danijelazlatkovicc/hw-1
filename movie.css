@@ -17,6 +17,13 @@ body h1 {
     text-shadow: 3px 3px #999999;
 }
 
+.container {
+    width: 55%;
+    margin: 0 auto;
+    display: flex;
+    
+}
+
 
 
 
